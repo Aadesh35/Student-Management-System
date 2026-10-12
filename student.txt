@@ -6,3 +6,8 @@ Student 2
 Name: Daksh Patil
 Roll no.:43
 
+Student 3
+Name: Anshika Mishra 
+Roll no.: 22
+
+
